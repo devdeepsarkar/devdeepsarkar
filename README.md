@@ -4,7 +4,7 @@
 
 ### Backend Developer • ML Researcher • Database Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Researching+Hindi+NLP;Exploring+MLOps+and+Distributed+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Researching+Hindi+NLP+with+HNVec;Exploring+MLOps+and+Distributed+Systems" />
 
 <br>
 
@@ -14,42 +14,74 @@
 
 ---
 
-## About Me
+# About Me
 
-- Backend developer focused on scalable systems
-- Researcher in Hindi NLP and ML systems
-- Interested in databases, MLOps, and distributed systems
-- Building production-grade backend + AI applications
+- 🛢️ I specialize in **SQL & Database Engineering** — temporal systems, schema design, and query optimization
+- 🤖 I build **ML systems** — from NLP research to production-grade MLOps pipelines
+- ☕ I work with **Java Spring Boot**, **Python FastAPI**, and **C/C++** for backend & systems programming
+- 🔬 My B.Tech thesis introduced **HNVec** — a custom Hindi NLP embedding achieving **88.61% accuracy**
+- 🤝 I enjoy collaborating on complex, end-to-end systems
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,spring,fastapi,tensorflow,docker,kubernetes,mysql,postgresql,git,linux" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,spring,fastapi,tensorflow,docker,kubernetes,mysql,postgresql,git,linux" />
 
 </div>
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### 🕰️ TemporalDBSystem
+## 🕰️ TemporalDBSystem
+
 Temporal database engine with valid-time versioning and time-sliced querying.  
 `Java` `Spring Boot` `MySQL`
 
-### 📰 Project HNVec
-Hindi NLP research project achieving **88.61% accuracy** using hybrid CNN-LR-SVM architecture.  
-`Python` `TensorFlow` `Scikit-Learn`
-
-### 🔍 Log Anomaly Detection
-Production-grade cybersecurity MLOps pipeline with drift detection and auto-retraining.  
-`FastAPI` `Docker` `Kubernetes`
+🔗 https://github.com/devdeepsarkar/TemporalDBSystem
 
 ---
 
-## GitHub Stats
+## 📰 Project HNVec
+
+Hindi NLP research project achieving **88.61% accuracy** using hybrid CNN-LR-SVM architecture.  
+`Python` `TensorFlow` `Scikit-Learn`
+
+🔗 https://github.com/devdeepsarkar/Project-HNVec
+
+---
+
+## 🔍 Log Anomaly Detection
+
+Production-grade cybersecurity MLOps pipeline with drift detection and auto-retraining.  
+`FastAPI` `Docker` `Kubernetes`
+
+🔗 https://github.com/Preet018/Log-Anomaly-Detection
+
+---
+
+## 🏦 Banking Management System
+
+Client-server banking system handling accounts, loans, transactions, employees, and management operations.  
+`C` `File I/O`
+
+🔗 https://github.com/devdeepsarkar/BankingManagementSystem_SS
+
+---
+
+## 🎓 Academic ERP — Salary Disbursement
+
+ERP module for academic salary management with backend services and relational database integration.  
+`Java` `JavaScript` `SQL`
+
+🔗 https://github.com/devdeepsarkar/Academic-erp-salary-disbursement
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -61,7 +93,7 @@ Production-grade cybersecurity MLOps pipeline with drift detection and auto-retr
 
 ---
 
-## Connect
+## 🌐 Connect
 
 <div align="center">
 
@@ -70,3 +102,14 @@ Production-grade cybersecurity MLOps pipeline with drift detection and auto-retr
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Optimize • Scale • Repeat
+
+*"Building systems that scale, learn, and evolve."*
+
+</div>
+``
