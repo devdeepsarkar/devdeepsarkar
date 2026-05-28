@@ -1,19 +1,72 @@
-md <div align="center">  # 🚀 Devdeep Sarkar  ### Backend Engineer • ML Researcher • Database Systems Enthusiast  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Designing+Temporal+Databases;Researching+Hindi+NLP+with+HNVec;Exploring+MLOps+and+Distributed+Systems" alt="Typing SVG" />  <br/>  <img src="https://komarev.com/ghpvc/?username=devdeepsarkar&label=Profile+Views&color=0e75b6&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/devdeepsarkar?style=for-the-badge&color=blue" /> <img src="https://img.shields.io/github/stars/devdeepsarkar?style=for-the-badge&color=yellow" />  </div>  ---  # 🧠 About Me  yaml
-Name: Devdeep Sarkar
-Role: CS Student & Backend Developer
+<div align="center">
 
-Focus Areas:
-  - Database Systems
-  - Backend Engineering
-  - Machine Learning
-  - MLOps & Distributed Systems
+# Devdeep Sarkar
 
-Currently Exploring:
-  - Kubernetes
-  - System Design
-  - Database Internals
-  - Distributed Computing
+### Backend Developer • ML Researcher • Database Systems
 
-Philosophy:
-  "Build systems that scale, learn, and evolve."
- ---  # ⚡ Tech Stack  <div align="center">  ## 💻 Languages  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql,postgresql" />  ---  ## 🛠 Frameworks & Libraries  <img src="https://skillicons.dev/icons?i=spring,fastapi,tensorflow,pytorch" />  ---  ## ⚙️ DevOps & Tools  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,git,github,maven,vscode" />  </div>  ---  # 🚀 Featured Projects  ## 🕰️ TemporalDBSystem  ### Advanced Temporal Database Engine  > Spring Boot REST API implementing valid-time temporal versioning with automated history schema generation.  ### ✨ Features  - Temporal joins - Time-sliced queries - Version history tracking - Correlated salary-manager lookups - Automated schema evolution  ### 🛠 Tech Stack  `Java` `Spring Boot` `MySQL`  🔗 **Repository:**   https://github.com/devdeepsarkar/TemporalDBSystem  ---  ## 📰 Project HNVec  ### Hindi NLP Research Thesis  > Introduced **HNVec**, a custom Hindi word embedding with a hybrid CNN-LR-SVM architecture achieving **88.61% accuracy**.  ### ✨ Features  - Context-aware Hindi embeddings - Hybrid deep learning architecture - Hindi news classification - NLP preprocessing pipeline  ### 🛠 Tech Stack  `Python` `TensorFlow` `Scikit-Learn`  🔗 **Repository:**   https://github.com/devdeepsarkar/Project-HNVec  ---  ## 🔍 Log Anomaly Detection  ### Drift-Aware MLOps Pipeline  > Production-grade cybersecurity anomaly detection system with automated drift monitoring and retraining.  ### ✨ Features  - Zero-day attack detection - Autoencoder + Random Forest ensemble - Kubernetes deployment - ELK monitoring - CI/CD automation  ### 🛠 Tech Stack  `FastAPI` `Docker` `Kubernetes` `Jenkins`  🔗 **Repository:**   https://github.com/Preet018/Log-Anomaly-Detection  ---  ## 🏦 Banking Management System  > Client-server banking system handling accounts, loans, employees, transactions, and management operations.  ### 🛠 Tech Stack  `C` `File I/O`  🔗 **Repository:**   https://github.com/devdeepsarkar/BankingManagementSystem_SS  ---  # 📊 GitHub Analytics  <div align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true"/>  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepsarkar&theme=tokyonight&hide_border=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepsarkar&layout=compact&theme=tokyonight&hide_border=true"/>  </div>  ---  # 🧩 Contribution Graph  <div align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdeepsarkar&theme=tokyo-night&hide_border=true"/>  </div>  ---  # 🎯 Current Goals  - 📚 Mastering Distributed Systems - ⚙️ Building Production-grade Backend Systems - ☸️ Deep diving into Kubernetes & MLOps - 🧠 Exploring Query Optimization & DB Internals - 🤖 Researching Scalable NLP Architectures  ---  # 🌐 Connect With Me  <div align="center">  <a href="https://www.linkedin.com/in/devdeep-sarkar-352932224">   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  </div>  ---  <div align="center">  ### ⚡ "Code. Optimize. Scale. Repeat."  </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Researching+Hindi+NLP;Exploring+MLOps+and+Distributed+Systems" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=devdeepsarkar&style=flat-square&color=blue" />
+
+</div>
+
+---
+
+## About Me
+
+- Backend developer focused on scalable systems
+- Researcher in Hindi NLP and ML systems
+- Interested in databases, MLOps, and distributed systems
+- Building production-grade backend + AI applications
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,spring,fastapi,tensorflow,docker,kubernetes,mysql,postgresql,git,linux" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### 🕰️ TemporalDBSystem
+Temporal database engine with valid-time versioning and time-sliced querying.  
+`Java` `Spring Boot` `MySQL`
+
+### 📰 Project HNVec
+Hindi NLP research project achieving **88.61% accuracy** using hybrid CNN-LR-SVM architecture.  
+`Python` `TensorFlow` `Scikit-Learn`
+
+### 🔍 Log Anomaly Detection
+Production-grade cybersecurity MLOps pipeline with drift detection and auto-retraining.  
+`FastAPI` `Docker` `Kubernetes`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepsarkar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/devdeep-sarkar-352932224">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
