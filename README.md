@@ -2,9 +2,9 @@
 
 # Devdeep Sarkar
 
-### Backend Developer • ML Researcher • Database Systems
+### Building Scalable Systems • Exploring AI • Engineering Databases
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Learning+NLP+And+ML+Techniques;Exploring+MLOps+and+Distributed+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Building+AI+and+ML+Systems;Exploring+MLOps+and+Distributed+Systems" />
 
 <br>
 
@@ -102,9 +102,13 @@ ERP module for academic salary management with backend services and relational d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepsarkar&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=devdeepsarkar&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepsarkar&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -129,4 +133,3 @@ ERP module for academic salary management with backend services and relational d
 *"Building systems that scale, learn, and evolve."*
 
 </div>
-``
