@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Devdeep Sarkar 👋</h1>
 
 <p align="center">
-  <b>CS Student • SQL & Backend Developer • ML Researcher</b><br/>
-  📍 Raipur, India &nbsp;|&nbsp; 🎓 B.Tech @ BIT Durg
+  <b>CS Student • SQL & Backend Developer • Python Enthusiast</b><br/>
 </p>
 
 <p align="center">
