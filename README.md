@@ -102,13 +102,9 @@ ERP module for academic salary management with backend services and relational d
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=devdeepsarkar&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepsarkar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepsarkar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
