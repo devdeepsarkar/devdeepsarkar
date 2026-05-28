@@ -1,78 +1,19 @@
-<h1 align="center">Hi, I'm Devdeep Sarkar 👋</h1>
+md <div align="center">  # 🚀 Devdeep Sarkar  ### Backend Engineer • ML Researcher • Database Systems Enthusiast  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Designing+Temporal+Databases;Researching+Hindi+NLP+with+HNVec;Exploring+MLOps+and+Distributed+Systems" alt="Typing SVG" />  <br/>  <img src="https://komarev.com/ghpvc/?username=devdeepsarkar&label=Profile+Views&color=0e75b6&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/devdeepsarkar?style=for-the-badge&color=blue" /> <img src="https://img.shields.io/github/stars/devdeepsarkar?style=for-the-badge&color=yellow" />  </div>  ---  # 🧠 About Me  yaml
+Name: Devdeep Sarkar
+Role: CS Student & Backend Developer
 
-<p align="center">
-  <b>CS Student • SQL & Backend Developer • Python Enthusiast</b><br/>
-</p>
+Focus Areas:
+  - Database Systems
+  - Backend Engineering
+  - Machine Learning
+  - MLOps & Distributed Systems
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devdeepsarkar&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Currently Exploring:
+  - Kubernetes
+  - System Design
+  - Database Internals
+  - Distributed Computing
 
----
-
-## 🧠 About Me
-
-- 🛢️ I specialize in **SQL & Database Engineering** — temporal systems, schema design, and query optimization
-- 🤖 I build **ML systems** — from NLP research to production-grade MLOps pipelines
-- ☕ I work with **Java Spring Boot**, **Python FastAPI**, and **C** for systems programming
-- 🔬 My B.Tech thesis introduced **HNVec** — a custom word embedding for Hindi NLP achieving **88.61% accuracy**
-- 🤝 I enjoy collaborating on complex, end-to-end systems
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Tools |
-|---|---|
-| **Databases** | MySQL, PostgreSQL, Temporal DB Design |
-| **Backend** | Java (Spring Boot), Python (FastAPI), C |
-| **ML / AI** | TensorFlow, PyTorch, Scikit-Learn, CNN, SVM |
-| **DevOps** | Docker, Kubernetes, Jenkins, Ansible |
-| **Monitoring** | ELK Stack (Elasticsearch, Kibana, Fluent Bit) |
-| **Frontend** | JavaScript, HTML, CSS, Streamlit |
-| **Tools** | Git, GitHub, Maven, Google Colab, VS Code |
-
----
-
-## 📂 Featured Projects
-
-### 🔴 Database & Backend Systems
-| Project | Description | Tech |
-|---|---|---|
-| 🕰️ [TemporalDBSystem](https://github.com/devdeepsarkar/TemporalDBSystem) | Spring Boot REST API implementing Valid Time temporal versioning with auto-generated history schema via JAXB. Supports temporal joins, time-sliced queries, and correlated manager-salary lookups. | Java, Spring Boot, MySQL |
-| 🏦 [Banking Management System](https://github.com/devdeepsarkar/BankingManagementSystem_SS) | Client-server banking system in C handling accounts, loans, transactions, employees, and managers with a full data model | C, File I/O |
-| 🎓 [Academic ERP — Salary Disbursement](https://github.com/devdeepsarkar/Academic-erp-salary-disbursement) | Full-stack ERP module for academic salary management with Java backend, relational database layer, and a React frontend | Java, JavaScript, SQL |
-
-### 🟠 Machine Learning & AI
-| Project | Description | Tech |
-|---|---|---|
-| 📰 [Project HNVec](https://github.com/devdeepsarkar/Project-HNVec) | **B.Tech Thesis** — Introduced HNVec, a novel context-sensitive Hindi word embedding. Built a hybrid CNN-LR-SVM framework achieving **88.61% accuracy** on Hindi news classification | Python, TensorFlow, Scikit-Learn |
-| 🛡️ [Cyberbullying Detection System](https://github.com/devdeepsarkar/ContextAwareCyberBullyingDetectionSystem) | Context-aware NLP system for detecting cyberbullying with a GUI interface and versioned model results | Python, Jupyter, HTML/CSS |
-
-### 🟡 MLOps & DevOps *(Collaboration)*
-| Project | Description | Tech |
-|---|---|---|
-| 🔍 [Log Anomaly Detection](https://github.com/Preet018/Log-Anomaly-Detection) | Production-grade MLOps pipeline for cybersecurity log anomaly detection. Detects known attacks (Random Forest) and Zero-Day threats (Autoencoder). Full CI/CD with Jenkins, Kubernetes orchestration, Ansible IaC, drift detection with auto-retraining, and ELK Stack monitoring | Python, FastAPI, Docker, K8s, Jenkins, Ansible |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=devdeepsarkar&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepsarkar&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devdeepsarkar&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devdeepsarkar&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devdeepsarkar&theme=tokyonight" width="32%"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p>
-  <!-- <a href="mailto:your@email.com">📧 Email</a> &nbsp;|&nbsp; -->
-  <a href="www.linkedin.com/in/devdeep-sarkar-352932224">💼 LinkedIn</a>
-</p>
+Philosophy:
+  "Build systems that scale, learn, and evolve."
+ ---  # ⚡ Tech Stack  <div align="center">  ## 💻 Languages  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql,postgresql" />  ---  ## 🛠 Frameworks & Libraries  <img src="https://skillicons.dev/icons?i=spring,fastapi,tensorflow,pytorch" />  ---  ## ⚙️ DevOps & Tools  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,git,github,maven,vscode" />  </div>  ---  # 🚀 Featured Projects  ## 🕰️ TemporalDBSystem  ### Advanced Temporal Database Engine  > Spring Boot REST API implementing valid-time temporal versioning with automated history schema generation.  ### ✨ Features  - Temporal joins - Time-sliced queries - Version history tracking - Correlated salary-manager lookups - Automated schema evolution  ### 🛠 Tech Stack  `Java` `Spring Boot` `MySQL`  🔗 **Repository:**   https://github.com/devdeepsarkar/TemporalDBSystem  ---  ## 📰 Project HNVec  ### Hindi NLP Research Thesis  > Introduced **HNVec**, a custom Hindi word embedding with a hybrid CNN-LR-SVM architecture achieving **88.61% accuracy**.  ### ✨ Features  - Context-aware Hindi embeddings - Hybrid deep learning architecture - Hindi news classification - NLP preprocessing pipeline  ### 🛠 Tech Stack  `Python` `TensorFlow` `Scikit-Learn`  🔗 **Repository:**   https://github.com/devdeepsarkar/Project-HNVec  ---  ## 🔍 Log Anomaly Detection  ### Drift-Aware MLOps Pipeline  > Production-grade cybersecurity anomaly detection system with automated drift monitoring and retraining.  ### ✨ Features  - Zero-day attack detection - Autoencoder + Random Forest ensemble - Kubernetes deployment - ELK monitoring - CI/CD automation  ### 🛠 Tech Stack  `FastAPI` `Docker` `Kubernetes` `Jenkins`  🔗 **Repository:**   https://github.com/Preet018/Log-Anomaly-Detection  ---  ## 🏦 Banking Management System  > Client-server banking system handling accounts, loans, employees, transactions, and management operations.  ### 🛠 Tech Stack  `C` `File I/O`  🔗 **Repository:**   https://github.com/devdeepsarkar/BankingManagementSystem_SS  ---  # 📊 GitHub Analytics  <div align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true"/>  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepsarkar&theme=tokyonight&hide_border=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepsarkar&layout=compact&theme=tokyonight&hide_border=true"/>  </div>  ---  # 🧩 Contribution Graph  <div align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdeepsarkar&theme=tokyo-night&hide_border=true"/>  </div>  ---  # 🎯 Current Goals  - 📚 Mastering Distributed Systems - ⚙️ Building Production-grade Backend Systems - ☸️ Deep diving into Kubernetes & MLOps - 🧠 Exploring Query Optimization & DB Internals - 🤖 Researching Scalable NLP Architectures  ---  # 🌐 Connect With Me  <div align="center">  <a href="https://www.linkedin.com/in/devdeep-sarkar-352932224">   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  </div>  ---  <div align="center">  ### ⚡ "Code. Optimize. Scale. Repeat."  </div>
