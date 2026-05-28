@@ -140,25 +140,15 @@ ERP module for academic salary management with backend services and relational d
 
 <div align="center">
 
-### 🌐 Let's Connect & Collaborate
+## 📬 Get In Touch
 
 <br>
 
-<a href="https://www.linkedin.com/in/devdeep-sarkar-352932224">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da797a48bc88.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your@email.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/devdeepsarkar">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-
-<br><br>
-
-![snake gif](https://github.com/devdeepsarkar/devdeepsarkar/blob/output/github-contribution-grid-snake-dark.svg)
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [devdeep-sarkar](https://www.linkedin.com/in/devdeep-sarkar-352932224) |
+| 📧 Email | [your@email.com](mailto:devdeepsarkar3@gmail.com.com) |
+| 🐙 GitHub | [@devdeepsarkar](https://github.com/devdeepsarkar) |
 
 </div>
 
