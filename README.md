@@ -140,24 +140,34 @@ ERP module for academic salary management with backend services and relational d
 
 <div align="center">
 
-## 📬 Get In Touch
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### 📬 Connect With Me
 
 <br>
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [devdeep-sarkar](https://www.linkedin.com/in/devdeep-sarkar-352932224) |
-| 📧 Email | [your@email.com](mailto:devdeepsarkar3@gmail.com.com) |
-| 🐙 GitHub | [@devdeepsarkar](https://github.com/devdeepsarkar) |
+<a href="https://www.linkedin.com/in/devdeep-sarkar-352932224">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/devdeepsarkar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
 
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Code • Optimize • Scale • Repeat
+<br><br>
 
 *"Building systems that scale, learn, and evolve."*
+
+<br>
+
+⚡ **Code • Optimize • Scale • Repeat** ⚡
 
 </div>
