@@ -30,13 +30,9 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,spring,fastapi,tensorflow,docker,kubernetes,mysql,postgresql,git,linux" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepsarkar&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepsarkar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" />
 
 </div>
 
