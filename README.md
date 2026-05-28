@@ -62,13 +62,6 @@
 
 </div>
 
-<br><br>
-
-<!-- Dynamic: Auto-updates from your repos -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepsarkar&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=8"/>
-</div>
-
 ---
 
 # Featured Projects
