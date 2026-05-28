@@ -100,11 +100,13 @@ ERP module for academic salary management with backend services and relational d
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devdeepsarkar&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepsarkar&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=devdeepsarkar&theme=transparent&hide_border=true" />
 
 </div>
 
