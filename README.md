@@ -100,7 +100,7 @@ It features a self-healing architecture automated via Jenkins and Ansible, orche
 
 `Docker` `Kubernetes` `Ansible` `Jenkins` `ELK Stack` `FastAPI` `Streamlit` `Python` `Microservice` `MLOps`
 
-🔗 https://github.com/Preet018/Log-Anomaly-Detection `(In collaboration)`
+🔗 https://github.com/devdeepsarkar/Drift-Aware-MLOps-Platform-for-Cybersecurity-Anomaly-Detection
 
 ---
 
